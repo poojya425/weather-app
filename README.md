@@ -1,4 +1,4 @@
-I created this simple weather app to strengthen my front-end development skills and practice working with real-time APIs. It helped me improve my understanding of asynchronous JavaScript, DOM manipulation, and building interactive user interfaces.
+Created this simple weather app to strengthen my front-end development skills and practice working with real-time APIs. It helped me improve my understanding of asynchronous JavaScript, DOM manipulation, and building interactive user interfaces.
 
 Technologies Used
 HTML5 – structure of the application
